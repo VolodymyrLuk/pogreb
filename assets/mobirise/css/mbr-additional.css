@@ -2146,127 +2146,15 @@ b {
   position: absolute;
   top: 0;
 }
-.cid-ufoIoZPjno {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  overflow: hidden;
+.cid-ufpPxgQaq1 {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
   background-color: #ffffff;
 }
-.cid-ufoIoZPjno .row {
-  display: flex;
-  align-items: flex-start;
-  justify-content: center;
-  flex-wrap: wrap;
-}
-@media (min-width: 1025px) {
-  .cid-ufoIoZPjno .row {
-    margin-top: 45px !important;
-  }
-}
-.cid-ufoIoZPjno .col-card {
-  padding: 10px !important;
-}
-@media (max-width: 1024px) {
-  .cid-ufoIoZPjno .col-card {
-    width: 100% !important;
-  }
-}
-.cid-ufoIoZPjno .card-wrapper {
-  height: 100%;
-  display: block;
-}
-@media (min-width: 768px) and (max-width: 880px) {
-  .cid-ufoIoZPjno .card-wrapper {
-    padding: 0 15% 0 15%;
-  }
-}
-@media (min-width: 881px) and (max-width: 1024px) {
-  .cid-ufoIoZPjno .card-wrapper {
-    padding: 0 20% 0 20%;
-  }
-}
-@media (min-width: 1025px) {
-  .cid-ufoIoZPjno .card-wrapper {
-    display: contents;
-  }
-}
-.cid-ufoIoZPjno .card-box {
-  height: 100%;
-  overflow: visible;
-  padding: 80px 30px 92px;
-  background: transparent;
-  vertical-align: top;
-  background-size: cover;
-  background-position: right top;
-  position: relative;
-  z-index: 2;
-}
-@media (min-width: 768px) {
-  .cid-ufoIoZPjno .card-box {
-    padding: 96px 60px;
-  }
-}
-.cid-ufoIoZPjno .card-1 {
-  background-image: url("file:///Users/volodymyrlukianenko/Library/Application%20Support/Mobirise.com/Mobirise/vldimir_002eluk_0040gmail_002ecom/addons/networkm5/components/_images/gallery/gallery6.jpg") !important;
-}
-.cid-ufoIoZPjno .card-2 {
-  background-image: url("file:///Users/volodymyrlukianenko/Library/Application%20Support/Mobirise.com/Mobirise/vldimir_002eluk_0040gmail_002ecom/addons/networkm5/components/_images/gallery/gallery6.jpg") !important;
-}
-.cid-ufoIoZPjno .card-3 {
-  background-image: url("file:///Users/volodymyrlukianenko/Library/Application%20Support/Mobirise.com/Mobirise/vldimir_002eluk_0040gmail_002ecom/addons/networkm5/components/_images/gallery/gallery6.jpg") !important;
-}
-@media (min-width: 1025px) {
-  .cid-ufoIoZPjno .card-2 {
-    transform: translateY(-45px);
-    justify-content: center;
-    flex-direction: column;
-    display: flex;
-    padding: 136px 60px 150px;
-  }
-}
-.cid-ufoIoZPjno .card-title {
-  color: #000000;
-  margin-top: 10px;
-  margin-bottom: 18px;
-}
-.cid-ufoIoZPjno .mbr-text {
-  color: #000000;
-  margin: 0;
-}
-.cid-ufoIoZPjno .list {
-  list-style-type: none;
-  padding-left: 0;
-  margin-bottom: 0;
-  margin-top: 42px;
-}
-.cid-ufoIoZPjno .list li {
-  margin-bottom: 7px;
-}
-.cid-ufoIoZPjno .list li:before {
-  content: '';
-  height: 4px;
-  width: 4px;
-  border-radius: 50%;
-  display: inline-block;
-  background: currentColor;
-  vertical-align: middle;
-  margin-right: 5px;
-}
-.cid-ufoIoZPjno .btn-container {
-  margin-top: 60px;
-}
-.cid-ufoIoZPjno .btn-container .btn {
-  min-width: 100px;
-}
-@media (max-width: 575px) {
-  .cid-ufoIoZPjno .btn-container .btn {
-    padding: 17px 25px 15px;
-  }
-}
-.cid-ufoIoZPjno .mbr-fallback-image.disabled {
+.cid-ufpPxgQaq1 .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-ufoIoZPjno .mbr-fallback-image {
+.cid-ufpPxgQaq1 .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -2274,6 +2162,94 @@ b {
   height: 100%;
   position: absolute;
   top: 0;
+}
+.cid-ufpPxgQaq1 .container-fluid {
+  padding: 0 28px;
+}
+@media (max-width: 992px) {
+  .cid-ufpPxgQaq1 .container-fluid {
+    padding: 0 16px;
+  }
+}
+@media (max-width: 768px) {
+  .cid-ufpPxgQaq1 .container-fluid {
+    padding: 0 14px;
+  }
+}
+@media (max-width: 992px) {
+  .cid-ufpPxgQaq1 .container {
+    padding: 0 16px;
+  }
+}
+@media (max-width: 768px) {
+  .cid-ufpPxgQaq1 .container {
+    padding: 0 14px;
+  }
+}
+.cid-ufpPxgQaq1 .row {
+  justify-content: center;
+}
+.cid-ufpPxgQaq1 .title-wrapper .mbr-section-title {
+  margin-bottom: 100px;
+}
+@media (max-width: 992px) {
+  .cid-ufpPxgQaq1 .title-wrapper .mbr-section-title {
+    margin-bottom: 32px;
+  }
+}
+.cid-ufpPxgQaq1 .item {
+  margin-bottom: 22px;
+}
+.cid-ufpPxgQaq1 .item .item-wrapper {
+  border-left: 1px solid #01004c;
+  padding-left: 25px;
+  border-radius: 0 !important;
+  height: 100%;
+}
+@media (max-width: 992px) {
+  .cid-ufpPxgQaq1 .item .item-wrapper {
+    min-height: auto;
+  }
+}
+.cid-ufpPxgQaq1 .item .item-wrapper .card-box {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
+}
+@media (max-width: 992px) {
+  .cid-ufpPxgQaq1 .item .item-wrapper .card-box {
+    min-height: auto;
+  }
+}
+.cid-ufpPxgQaq1 .item .item-wrapper .card-box .card-price {
+  margin-bottom: 100px;
+}
+@media (max-width: 992px) {
+  .cid-ufpPxgQaq1 .item .item-wrapper .card-box .card-price {
+    margin-bottom: 32px;
+  }
+}
+.cid-ufpPxgQaq1 .item .item-wrapper .card-box .desc-wrap .card-desc {
+  display: inline-flex;
+  width: 65%;
+  margin-bottom: 22px;
+}
+@media (max-width: 992px) {
+  .cid-ufpPxgQaq1 .item .item-wrapper .card-box .desc-wrap .card-desc {
+    width: 100%;
+    display: block;
+  }
+}
+.cid-ufpPxgQaq1 .mbr-section-title {
+  color: #01004c;
+  text-align: center;
+}
+.cid-ufpPxgQaq1 .card-price {
+  color: #01004c;
+}
+.cid-ufpPxgQaq1 .card-desc {
+  color: #01004c;
 }
 .cid-ufoDtxMsPe {
   padding-top: 2rem;
