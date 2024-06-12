@@ -47,11 +47,11 @@
     ],
     "imageResize": true,
     "favicon": false,
-    "mbrsiteDomain": "f5kxvxzvp4",
+    "mbrsiteDomain": "kowvzrkxkd",
     "usedWebp": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
-    "sitemapSwitcherAuto": false,
+    "sitemapSwitcherAuto": "on",
     "siteUrl": false,
     "cookiesAlert": {
       "customDialogSelector": false,
@@ -67,11 +67,18 @@
       "textButton": "Зрозуміло",
       "rejectText": "REJECT"
     },
-    "gdpr": false,
+    "gdpr": {
+      "colorText": "#a7a7a7",
+      "colorLink": "#149dcc",
+      "underlineLink": false,
+      "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
+    },
     "uniqCompNum": 34,
     "versionPublish": "5.9.13",
     "screenshot": "screenshot.png",
-    "cookiesAlertType": "1"
+    "cookiesAlertType": "1",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "google-analytics": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-EFJ4MQ3W8X\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-EFJ4MQ3W8X');\n</script>"
   },
   "pages": {
     "index.html": {
